@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm currently working on the travel industry, my focus area is the Independent Hoteliers Domain, and I work at [trivago](https://github.com/trivago).
+I'm currently working in the travel industry. I work at [trivago](https://github.com/trivago) and my focus area is the Independent Hoteliers Domain.
+
 I code in Go & PHP.
 
 📫 You can reach me on twitter: [@VictorAvelar](https://twitter.com/VictorAvelar)
