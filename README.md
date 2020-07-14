@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working on the travel industry, my focus area is the Independent Hoteleliers Domain, and I work @trivago.
+
+I code in Go & PHP.
+
+📫 You can reach me on twitter: [@VictorAvelar](https://twitter.com/VictorAvelar)
+
 <!--
 **VictorAvelar/VictorAvelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
