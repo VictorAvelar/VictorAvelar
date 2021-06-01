@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working in the travel industry. I work at [trivago](https://github.com/trivago) and my focus area is the Independent Hotels Domain.
+I'm currently working in the travel industry. I work at [Zizoo boats](https://zizoo.com).
 
 I code in Go & PHP.
 
