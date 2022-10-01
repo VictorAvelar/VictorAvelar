@@ -2,9 +2,11 @@
 
 
 I'm a Mexican engineer who enjoys coding.
+
 I mostly write code in Go and PHP.
 
 📫 You can reach me on twitter: [@VictorAvelar](https://twitter.com/VictorAvelar)
+
 🔭 I’m currently working as Engineering Manager at @commercetools
 
 <!--
