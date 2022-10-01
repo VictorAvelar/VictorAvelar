@@ -1,10 +1,11 @@
-### Hi there 👋
+### 👋
 
-I'm currently working in the travel industry. I work at [Zizoo boats](https://zizoo.com).
 
-I code in Go & PHP.
+I'm a Mexican engineer who enjoys coding.
+I mostly write code in Go and PHP.
 
 📫 You can reach me on twitter: [@VictorAvelar](https://twitter.com/VictorAvelar)
+🔭 I’m currently working as Engineering Manager at @commercetools
 
 <!--
 **VictorAvelar/VictorAvelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
